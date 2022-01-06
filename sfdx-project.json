@@ -1,12 +1,23 @@
 {
-  "packageDirectories": [
-    {
-      "path": "force-app",
-      "default": true
+    "packageDirectories": [
+        {
+            "path": "force-app",
+            "default": false
+        },
+        {
+            "path": "CustomPackage",
+            "package": "CustomPackage",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT",
+            "default": true
+        }
+    ],
+    "name": "project2Team",
+    "namespace": "",
+    "sfdcLoginUrl": "https://empathetic-unicorn-np7lak-dev-ed.my.salesforce.com/",
+    "sourceApiVersion": "52.0",
+    "packageAliases": {
+        "CustomPackage": "0Ho5f00000000JaCAI",
+        "CustomPackage@0.1.0-1": "04t5f000000ijGJAAY"
     }
-  ],
-  "name": "project2Team",
-  "namespace": "",
-  "sfdcLoginUrl": "https://empathetic-unicorn-np7lak-dev-ed.my.salesforce.com/",
-  "sourceApiVersion": "52.0"
 }

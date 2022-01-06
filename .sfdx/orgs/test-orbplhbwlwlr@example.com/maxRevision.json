@@ -1,0 +1,47 @@
+{
+  "serverMaxRevisionCounter": 11,
+  "sourceMembers": {
+    "ListView__DemoObject__c.All": {
+      "serverRevisionCounter": 9,
+      "lastRetrievedFromServer": 9,
+      "memberType": "ListView",
+      "isNameObsolete": false
+    },
+    "CustomField__DemoObject__c.DemoField__c": {
+      "serverRevisionCounter": 4,
+      "lastRetrievedFromServer": 4,
+      "memberType": "CustomField",
+      "isNameObsolete": false
+    },
+    "Profile__Admin": {
+      "serverRevisionCounter": 10,
+      "lastRetrievedFromServer": 10,
+      "memberType": "Profile",
+      "isNameObsolete": false
+    },
+    "Layout__DemoObject__c-DemoObject Layout": {
+      "serverRevisionCounter": 5,
+      "lastRetrievedFromServer": 5,
+      "memberType": "Layout",
+      "isNameObsolete": false
+    },
+    "CustomObject__DemoObject__c": {
+      "serverRevisionCounter": 3,
+      "lastRetrievedFromServer": 3,
+      "memberType": "CustomObject",
+      "isNameObsolete": false
+    },
+    "CustomTab__DemoObject__c": {
+      "serverRevisionCounter": 7,
+      "lastRetrievedFromServer": 7,
+      "memberType": "CustomTab",
+      "isNameObsolete": false
+    },
+    "ApexClass__testClass": {
+      "serverRevisionCounter": 11,
+      "lastRetrievedFromServer": 11,
+      "memberType": "ApexClass",
+      "isNameObsolete": false
+    }
+  }
+}
